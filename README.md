@@ -49,14 +49,6 @@ ESP32 • C++ • Firebase • JavaScript • Web Dashboard
 
 ---
 
-### Real-Time Chat Application
-A communication platform with **public rooms, private messages, and user management**, using **WebSocket for real-time communication**.
-
-**Technologies:**  
-Node.js • WebSocket • JavaScript • HTML • CSS
-
----
-
 ### Machine Control Web Interface
 Web interface connected to an **ESP32 device** for monitoring sensors and controlling actuators in **manual and automatic modes**.
 
