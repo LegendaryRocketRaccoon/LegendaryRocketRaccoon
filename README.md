@@ -1,16 +1,94 @@
-## Hi there 👋
+# Hi, I'm Gustavo Chimello 👋
 
-<!--
-**LegendaryRocketRaccoon/LegendaryRocketRaccoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Technology student focused on **Software Development, Web Applications, and Internet of Things (IoT)**.
 
-Here are some ideas to get you started:
+I enjoy building systems that connect **software and hardware**, including web platforms, real-time applications, and IoT monitoring systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies & Tools
+
+**Languages**
+- JavaScript
+- C++
+- HTML
+- CSS
+
+**Backend & Databases**
+- Node.js
+- MongoDB Atlas
+- Firebase Realtime Database
+- WebSocket
+
+**Hardware / IoT**
+- ESP32
+- Sensor monitoring systems
+- Hardware–software integration
+
+---
+
+## 🧠 Areas of Interest
+
+- Web Development
+- Backend Systems
+- Real-Time Applications
+- Internet of Things (IoT)
+- Data Visualization
+- Hardware Integration
+
+---
+
+## 📊 Featured Projects
+
+### IoT Monitoring System with ESP32
+System developed for monitoring device data using **ESP32 integrated with Firebase**.  
+The device collects information such as uptime, VCC voltage, internal temperature, and WiFi signal strength (RSSI), sending the data automatically to the cloud.
+
+**Technologies:**  
+ESP32 • C++ • Firebase • JavaScript • Web Dashboard
+
+---
+
+### Real-Time Chat Application
+A communication platform with **public rooms, private messages, and user management**, using **WebSocket for real-time communication**.
+
+**Technologies:**  
+Node.js • WebSocket • JavaScript • HTML • CSS
+
+---
+
+### Machine Control Web Interface
+Web interface connected to an **ESP32 device** for monitoring sensors and controlling actuators in **manual and automatic modes**.
+
+**Technologies:**  
+ESP32 • JavaScript • Firebase • HTML • CSS
+
+---
+
+### Recruitment Web Platform
+Web system designed to **register and filter candidates based on skills and courses**, using Firebase as the backend database.
+
+**Technologies:**  
+JavaScript • Firebase • HTML • CSS
+
+---
+
+## 📚 Currently Learning
+
+- Advanced **Node.js**
+- **MongoDB Atlas** backend architecture
+- Scalable web applications
+- IoT data platforms
+
+---
+
+## 🤝 Collaboration
+
+I enjoy working on **team projects**, combining **technical documentation, backend development, and hardware integration**.
+
+---
+
+## 📫 Connect with me
+
+LinkedIn:  
+https://www.linkedin.com/in/gustavo-chimello-4a8368302
