@@ -83,4 +83,4 @@ I enjoy working on **team projects**, combining **technical documentation, backe
 ## 📫 Connect with me
 
 LinkedIn:  
-https://www.linkedin.com/in/gustavo-chimello-4a8368302
+www.linkedin.com/in/dev-chimello
