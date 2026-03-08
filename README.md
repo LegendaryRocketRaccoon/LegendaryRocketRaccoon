@@ -20,6 +20,7 @@ I enjoy building systems that connect **software and hardware**, including web p
 - MongoDB Atlas
 - Firebase Realtime Database
 - WebSocket
+- MySQL
 
 **Hardware / IoT**
 - ESP32
