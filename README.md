@@ -13,6 +13,7 @@ I enjoy building systems that connect **software and hardware**, including web p
 - C++
 - HTML
 - CSS
+- C#
 
 **Backend & Databases**
 - Node.js
